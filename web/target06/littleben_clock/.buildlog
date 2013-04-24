@@ -1,0 +1,106 @@
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/littleben_clock.html","to":"web/out/littleben_clock.html"}}]
+Total time spent on web/littleben_clock.html                 -- 259 ms
+Total time                                                   -- 286 ms
+build.dart finished [724 ms]
+
+---
+build.dart --machine --changed=web/out/littleben_clock.css --changed=web/out/littleben_clock.dart --changed=web...
+Total time                                                   --  27 ms
+build.dart finished [512 ms]
+
+---
+build.dart --machine --changed=web/littleben_clock.dart
+[{"method":"mapping","params":{"from":"web/littleben_clock.html","to":"web/out/littleben_clock.html"}}]
+Total time spent on web/littleben_clock.html                 -- 259 ms
+Total time                                                   -- 286 ms
+build.dart finished [686 ms]
+
+---
+build.dart --machine --changed=web/out/littleben_clock.css --changed=web/out/littleben_clock.dart --changed=web...
+Total time                                                   --  22 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/littleben_clock.dart
+[{"method":"mapping","params":{"from":"web/littleben_clock.html","to":"web/out/littleben_clock.html"}}]
+Total time spent on web/littleben_clock.html                 -- 255 ms
+Total time                                                   -- 285 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/littleben_clock.css --changed=web/out/littleben_clock.dart --changed=web...
+Total time                                                   --  23 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --removed=pubspec.lock
+Total time                                                   --  22 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/littleben_clock.dart
+[{"method":"mapping","params":{"from":"web/littleben_clock.html","to":"web/out/littleben_clock.html"}}]
+Total time spent on web/littleben_clock.html                 -- 263 ms
+Total time                                                   -- 290 ms
+build.dart finished [694 ms]
+
+---
+build.dart --machine --changed=web/out/littleben_clock.css --changed=web/out/littleben_clock.dart --changed=web...
+Total time                                                   --  22 ms
+build.dart finished [412 ms]
+
+---
+build.dart --machine --changed=web/littleben_clock.dart
+[{"method":"mapping","params":{"from":"web/littleben_clock.html","to":"web/out/littleben_clock.html"}}]
+Total time spent on web/littleben_clock.html                 -- 257 ms
+Total time                                                   -- 282 ms
+build.dart finished [685 ms]
+
+---
+build.dart --machine --changed=web/out/littleben_clock.css --changed=web/out/littleben_clock.dart --changed=web...
+Total time                                                   --  23 ms
+build.dart finished [419 ms]
+
+---
+build.dart --machine --changed=web/littleben_clock.dart
+[{"method":"mapping","params":{"from":"web/littleben_clock.html","to":"web/out/littleben_clock.html"}}]
+Total time spent on web/littleben_clock.html                 -- 269 ms
+Total time                                                   -- 297 ms
+build.dart finished [720 ms]
+
+---
+build.dart --machine --changed=web/out/littleben_clock.css --changed=web/out/littleben_clock.dart --changed=web...
+Total time                                                   --  25 ms
+build.dart finished [453 ms]
+
+---
+build.dart --machine --changed=web/littleben_clock.dart
+[{"method":"mapping","params":{"from":"web/littleben_clock.html","to":"web/out/littleben_clock.html"}}]
+Total time spent on web/littleben_clock.html                 -- 288 ms
+Total time                                                   -- 315 ms
+build.dart finished [737 ms]
+
+---
+build.dart --machine --changed=web/out/littleben_clock.css --changed=web/out/littleben_clock.dart --changed=web...
+Total time                                                   --  23 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/littleben_clock.html","to":"web/out/littleben_clock.html"}}]
+Total time spent on web/littleben_clock.html                 -- 258 ms
+Total time                                                   -- 285 ms
+build.dart finished [699 ms]
+
+---
+build.dart --machine --changed=web/out/littleben_clock.css --changed=web/out/littleben_clock.dart --changed=web...
+Total time                                                   --  22 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --removed=pubspec.lock
+Total time                                                   --  22 ms
+build.dart finished [428 ms]
+

@@ -1,0 +1,53 @@
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/stopwatch.html","to":"web/out/stopwatch.html"}}]
+Total time spent on web/stopwatch.html                       -- 271 ms
+Total time                                                   -- 299 ms
+build.dart finished [721 ms]
+
+---
+build.dart --machine --changed=web/out/stopwatch.css --changed=web/out/stopwatch.dart --changed=web/out/stopwat...
+Total time                                                   --  25 ms
+build.dart finished [560 ms]
+
+---
+build.dart --machine --changed=web/stopwatch.dart
+[{"method":"mapping","params":{"from":"web/stopwatch.html","to":"web/out/stopwatch.html"}}]
+Total time spent on web/stopwatch.html                       -- 272 ms
+Total time                                                   -- 299 ms
+build.dart finished [713 ms]
+
+---
+build.dart --machine --changed=web/out/stopwatch.css --changed=web/out/stopwatch.dart --changed=web/out/stopwat...
+Total time                                                   --  23 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/stopwatch.dart
+[{"method":"mapping","params":{"from":"web/stopwatch.html","to":"web/out/stopwatch.html"}}]
+Total time spent on web/stopwatch.html                       -- 274 ms
+Total time                                                   -- 299 ms
+build.dart finished [703 ms]
+
+---
+build.dart --machine --changed=web/out/stopwatch.css --changed=web/out/stopwatch.dart --changed=web/out/stopwat...
+Total time                                                   --  23 ms
+build.dart finished [433 ms]
+
+---
+build.dart --machine --changed=web/stopwatch.dart
+[{"method":"mapping","params":{"from":"web/stopwatch.html","to":"web/out/stopwatch.html"}}]
+Total time spent on web/stopwatch.html                       -- 268 ms
+Total time                                                   -- 294 ms
+build.dart finished [705 ms]
+
+---
+build.dart --machine --changed=web/out/stopwatch.css --changed=web/out/stopwatch.dart --changed=web/out/stopwat...
+Total time                                                   --  23 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --removed=pubspec.lock
+Total time                                                   --  23 ms
+build.dart finished [427 ms]
+

@@ -1,0 +1,243 @@
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 408 ms
+Total time                                                   -- 439 ms
+build.dart finished [926 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  27 ms
+build.dart finished [549 ms]
+
+---
+build.dart --machine --removed=pubspec.lock
+Unable to open file: /Users/mcampione/Tutorial/official-example-src/dart-tutorials-samples/web/target09/its_all_about_you/packages/web_ui/component_build.dart'file:///Users/mcampione/Tutorial/official-example-src/dart-tutorials-samples/web/target09/its_all_about_you/build.dart': Error: line 1 pos 1: library handler failed
+import 'package:web_ui/component_build.dart';
+^
+build.dart finished [64 ms]
+
+---
+build.dart --machine --removed=web/out/its_all_about_you.css --removed=web/out/its_all_about_you.dart --removed...
+Unable to open file: /Users/mcampione/Tutorial/official-example-src/dart-tutorials-samples/web/target09/its_all_about_you/packages/web_ui/component_build.dart'file:///Users/mcampione/Tutorial/official-example-src/dart-tutorials-samples/web/target09/its_all_about_you/build.dart': Error: line 1 pos 1: library handler failed
+import 'package:web_ui/component_build.dart';
+^
+build.dart finished [56 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  42 ms
+build.dart finished [528 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.html
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 388 ms
+Total time                                                   -- 418 ms
+build.dart finished [837 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  24 ms
+build.dart finished [435 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.html
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 359 ms
+Total time                                                   -- 386 ms
+build.dart finished [797 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  23 ms
+build.dart finished [435 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.html
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 378 ms
+Total time                                                   -- 407 ms
+build.dart finished [832 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  23 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.html
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 349 ms
+Total time                                                   -- 376 ms
+build.dart finished [782 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  23 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.html
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 343 ms
+Total time                                                   -- 369 ms
+build.dart finished [764 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  23 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 375 ms
+Total time                                                   -- 406 ms
+build.dart finished [848 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  22 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  22 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.html --removed=pubspec.lock
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 340 ms
+Total time                                                   -- 366 ms
+build.dart finished [764 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  22 ms
+build.dart finished [421 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 343 ms
+Total time                                                   -- 370 ms
+build.dart finished [782 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  23 ms
+build.dart finished [415 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 367 ms
+Total time                                                   -- 396 ms
+build.dart finished [823 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  23 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 358 ms
+Total time                                                   -- 386 ms
+build.dart finished [802 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  23 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  22 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 347 ms
+Total time                                                   -- 374 ms
+build.dart finished [801 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  24 ms
+build.dart finished [440 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 356 ms
+Total time                                                   -- 386 ms
+build.dart finished [802 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  22 ms
+build.dart finished [418 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 353 ms
+Total time                                                   -- 383 ms
+build.dart finished [788 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  22 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 347 ms
+Total time                                                   -- 373 ms
+build.dart finished [778 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  24 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 352 ms
+Total time                                                   -- 379 ms
+build.dart finished [784 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  22 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/its_all_about_you.dart
+[{"method":"mapping","params":{"from":"web/its_all_about_you.html","to":"web/out/its_all_about_you.html"}}]
+Total time spent on web/its_all_about_you.html               -- 351 ms
+Total time                                                   -- 378 ms
+build.dart finished [775 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart --changed...
+Total time                                                   --  22 ms
+build.dart finished [437 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.dart
+Total time                                                   --  23 ms
+build.dart finished [456 ms]
+
+---
+build.dart --machine --changed=web/out/its_all_about_you.css --changed=web/out/its_all_about_you.dart.map --cha...
+Total time                                                   --  22 ms
+build.dart finished [432 ms]
+

@@ -1,0 +1,94 @@
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/littleben.html","to":"web/out/littleben.html"}}]
+Total time spent on web/littleben.html                       -- 253 ms
+Total time                                                   -- 283 ms
+build.dart finished [836 ms]
+
+---
+build.dart --machine --changed=web/out/littleben.css --changed=web/out/littleben.dart --changed=web/out/littleb...
+Total time                                                   --  28 ms
+build.dart finished [597 ms]
+
+---
+build.dart --machine --changed=web/littleben.dart
+[{"method":"mapping","params":{"from":"web/littleben.html","to":"web/out/littleben.html"}}]
+Total time spent on web/littleben.html                       -- 257 ms
+Total time                                                   -- 284 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/littleben.css --changed=web/out/littleben.dart --changed=web/out/littleb...
+Total time                                                   --  23 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --removed=pubspec.lock
+Total time                                                   --  22 ms
+build.dart finished [421 ms]
+
+---
+build.dart --machine --changed=web/littleben.dart
+[{"method":"mapping","params":{"from":"web/littleben.html","to":"web/out/littleben.html"}}]
+Total time spent on web/littleben.html                       -- 246 ms
+Total time                                                   -- 272 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/littleben.css --changed=web/out/littleben.dart --changed=web/out/littleb...
+Total time                                                   --  22 ms
+build.dart finished [417 ms]
+
+---
+build.dart --machine --changed=web/littleben.dart
+[{"method":"mapping","params":{"from":"web/littleben.html","to":"web/out/littleben.html"}}]
+Total time spent on web/littleben.html                       -- 253 ms
+Total time                                                   -- 280 ms
+build.dart finished [697 ms]
+
+---
+build.dart --machine --changed=web/out/littleben.css --changed=web/out/littleben.dart --changed=web/out/littleb...
+Total time                                                   --  23 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/littleben.dart
+[{"method":"mapping","params":{"from":"web/littleben.html","to":"web/out/littleben.html"}}]
+Total time spent on web/littleben.html                       -- 274 ms
+Total time                                                   -- 307 ms
+build.dart finished [731 ms]
+
+---
+build.dart --machine --changed=web/out/littleben.css --changed=web/out/littleben.dart --changed=web/out/littleb...
+Total time                                                   --  24 ms
+build.dart finished [456 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/littleben.html","to":"web/out/littleben.html"}}]
+Total time spent on web/littleben.html                       -- 248 ms
+Total time                                                   -- 274 ms
+build.dart finished [691 ms]
+
+---
+build.dart --machine --changed=web/out/littleben.css --changed=web/out/littleben.dart --changed=web/out/littleb...
+Total time                                                   --  23 ms
+build.dart finished [436 ms]
+
+---
+build.dart --machine --changed=web/littleben.dart
+[{"method":"mapping","params":{"from":"web/littleben.html","to":"web/out/littleben.html"}}]
+Total time spent on web/littleben.html                       -- 263 ms
+Total time                                                   -- 290 ms
+build.dart finished [698 ms]
+
+---
+build.dart --machine --changed=web/out/littleben.css --changed=web/out/littleben.dart --changed=web/out/littleb...
+Total time                                                   --  24 ms
+build.dart finished [482 ms]
+
+---
+build.dart --machine --removed=pubspec.lock
+Total time                                                   --  23 ms
+build.dart finished [434 ms]
+
